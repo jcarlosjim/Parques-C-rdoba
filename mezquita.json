@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mezquita-Catedral de Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7794, 37.8789]
+      }
+    }
+  ]
+}
