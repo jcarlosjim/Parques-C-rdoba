@@ -4,11 +4,133 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Mezquita-Catedral de Córdoba"
+        "nombre": "Iglesia de la Magdalena",
+        "direccion": "Pl. de la Magdalena, 8 14002"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.7794, 37.8789]
+        "coordinates": [-4.7691973, 37.886804885795215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Agustín",
+        "direccion": "Pl. de San Agustín, s/n 14001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.771953597630463, 37.88940931716811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Andrés",
+        "direccion": "Pl. San Andrés, 0 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.773070884655087, 37.886328527966754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Francisco y San Eulogio de la Axerquía",
+        "direccion": "C. Compás de San Francisco, 0 14003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.775574213491316, 37.88193005997646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Lorenzo",
+        "direccion": "Pl. de San Lorenzo, 5 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.769133925378928, 37.88851047747698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Miguel",
+        "direccion": "Pl. de San Miguel, s/n 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.779620692100365, 37.88607319083919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Nicolás de la Villa",
+        "direccion": "Pl. de San Nicolás 14003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.782315642327545, 37.8848231943671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Pablo",
+        "direccion": "C. Capitulares, 18 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.776016173017369, 37.885389186581996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de San Pedro",
+        "direccion": "Pl. de San Pedro, 1 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.771411186474303, 37.88279798112214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de Santa Marina",
+        "direccion": "Pl. de Sta. Marina, 6 14001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.774978828836228, 37.89005498258054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de Santiago",
+        "direccion": "C. de Agustín Moreno, 26 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.769177202495255, 37.88406692114017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de Santo Domingo de Silos",
+        "direccion": "Pl. de la Compañía, 7 14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.778015212564533, 37.8838329982109]
       }
     }
   ]
